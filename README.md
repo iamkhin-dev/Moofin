@@ -1,6 +1,6 @@
 # Moofin (🛠 Work in progess...)
 
-Moofin is a universal .NET library that provides core functionalities for building study-focused applications. 
+Moofin is a .NET library that provides core functionalities for building study-focused applications. 
 
 
 # Version
