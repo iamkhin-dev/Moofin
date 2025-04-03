@@ -1,4 +1,4 @@
-# Moofin  v0.0.1 Alpa (🛠️ *Work in Progress...)*
+# Moofin v0.0.1 Alpha (🛠️ *Work in Progress...)*
 
 **Moofin** is a .NET library designed to provide core functionalities for building study-focused applications.
 
@@ -8,6 +8,7 @@
 - [Docs](#docs)
 
 ## ⚙️ Installer
+
 To install **Moofin** in your .NET project, follow the steps below depending on your platform.
 
 1. **Download .NET 9**:
@@ -21,7 +22,7 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
    🛠️ *(Work in Progress...)*
 
-4. **Install via Termial**
+4. **Install via Terminal**
    
    | **OS**     | **Command**                       |
    |------------|-----------------------------------|
@@ -29,7 +30,6 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **macOS**  | 🛠️ (Work in Progress...)         |
    | **Linux**  | 🛠️ (Work in Progress...)         |
 
-
 ## 📑 Docs
 
-🛠️ **Work in Progress...**  
+🛠️ **Work in Progress...**
