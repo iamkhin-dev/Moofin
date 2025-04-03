@@ -2,10 +2,9 @@
 
 **Moofin** is a .NET library designed to provide core functionalities for building study-focused applications.
 
-## 📚 Index
+- ⚙️ [Installation Guide](#-installation-guide) 
+- 📑 [Documentation](#-documentation)        
 
-- [🛠️ Installation Guide](#-installation-guide)
-- [📖 Documentation](#-documentation)
 
 ## ⚙️ Installation Guide
 
