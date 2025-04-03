@@ -30,5 +30,7 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **Linux**  | 🛠️ (Work in Progress...)         |
 
 ## 📑 Documentation
+The entire documentation will be published on the website, please read the documentation carefully to have a pleasant experience.
 
+Here are 2 examples: 
 🛠️ **Work in Progress...**
