@@ -31,6 +31,7 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
 ## 📑 Documentation
 The entire documentation will be published on the website, please read the documentation carefully to have a pleasant experience.
+To access the documentation site, go to this link: **[Moofin](https://moofin.free.nf/)**
 
 Here are 2 examples: 
 🛠️ **Work in Progress...**
