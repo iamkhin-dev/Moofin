@@ -17,11 +17,11 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    - Download the appropriate installer for your operating system (Windows, macOS, or Linux).
    - Follow the on-screen instructions to complete the installation.
 
-3. **Install via NuGet**:
-
+3. **Install via NuGet or Terminal**:
+      ##### **NuGet:**
    🛠️ *(Work in Progress...)*
 
-4. **Install via Terminal**
+      ##### **Terminal:**
    
    | **OS**     | **Command**                       |
    |------------|-----------------------------------|
