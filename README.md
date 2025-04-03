@@ -4,15 +4,15 @@
 
 ## 📚 Index
 
-- [Installer](#installer)
-- [Docs](#docs)
+- [🛠️ Installation Guide](#-installation-guide)
+- [📖 Documentation](#-documentation)
 
-## ⚙️ Installer
+## ⚙️ Installation Guide
 
 To install **Moofin** in your .NET project, follow the steps below depending on your platform.
 
-1. **Download .NET 9**:
-   - Visit the official .NET 9 download page: [.NET 9](https://dotnet.microsoft.com/download/dotnet/9.0).
+1. **Prerequisites**
+   - [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
    
 2. **Run the Installer**:
    - Download the appropriate installer for your operating system (Windows, macOS, or Linux).
@@ -30,6 +30,6 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **macOS**  | 🛠️ (Work in Progress...)         |
    | **Linux**  | 🛠️ (Work in Progress...)         |
 
-## 📑 Docs
+## 📑 Documentation
 
 🛠️ **Work in Progress...**
