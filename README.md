@@ -1,6 +1,6 @@
 # Moofin v0.0.1 Alpha (🛠️ *Work in Progress...)*
 
-**Moofin** is a .NET library designed to provide core functionalities for building study-focused applications.
+**[Moofin](http://moofin.free.nf/)** is a .NET library designed to provide core functionalities for building study-focused applications.
 
 - ⚙️ [Installation Guide](#-installation-guide) 
 - 📑 [Documentation](#-documentation)        
