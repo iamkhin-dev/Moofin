@@ -13,7 +13,7 @@
 </a>
 </p>
 
-- ⚙️ [Installation Guide](#-installation-guide) 
+- ⚙️ [Installation Guide](#%EF%B8%8F-installation-guide) 
 - 📑 [Documentation](#-documentation)
 - 📜 [ChangeLog](#-changelog)      
 
