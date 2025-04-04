@@ -1,8 +1,8 @@
 # Moofin v0.0.1 Alpha (🛠️ *Work in Progress...)*
 <p align="center">
-    <img height="150px" src="icon.svg" align="center" />
+    <a href="https://moofin.free.nf/"><img height="150px" src="icon.svg" align="center" />
     <h2 align="center">Moofin</h2>
-    <p align="center"><strong><a href='https://moofin.free.nf/'>Moofin</strong> is a .NET library designed to provide core functionalities for building study-focused applications.</p>
+    <p align="center"><strong>Moofin</strong> is a .NET library designed to provide core functionalities for building study-focused applications.</p>
     <p align="center">
        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="50"></a>
         <a href="https://dotnet.microsoft.com/en-us/download/dotnet/9.0">
