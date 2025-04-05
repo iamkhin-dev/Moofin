@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Moofin.WebApp\**" />
+	  <EmbeddedResource Remove="Moofin.WebApp\**" />
+	  <None Remove="Moofin.WebApp\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore" Version="2.3.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.3.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+	</ItemGroup>
+
+</Project>

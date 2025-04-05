@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>library</OutputType>
+		<TargetFramework>net9.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<IncludeSymbols>false</IncludeSymbols>
+		<IncludeSource>false</IncludeSource>
+		<DebugType>none</DebugType>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Moofin.WebApp\**" />
+	  <EmbeddedResource Remove="Moofin.WebApp\**" />
+	  <None Remove="Moofin.WebApp\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="Models\LearningStat.cs" />
+	</ItemGroup>
+
+</Project>

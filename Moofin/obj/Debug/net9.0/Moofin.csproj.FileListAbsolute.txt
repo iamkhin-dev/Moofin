@@ -1,0 +1,9 @@
+C:\Users\franc\source\repos\Moofin\Moofin\bin\Debug\net9.0\Moofin.deps.json
+C:\Users\franc\source\repos\Moofin\Moofin\bin\Debug\net9.0\Moofin.dll
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\Moofin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\Moofin.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\Moofin.AssemblyInfo.cs
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\Moofin.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\Moofin.dll
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\refint\Moofin.dll
+C:\Users\franc\source\repos\Moofin\Moofin\obj\Debug\net9.0\ref\Moofin.dll
