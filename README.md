@@ -46,10 +46,11 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 ## 📑 Documentation
 ### Index
 #### Services
-- [FlashcardService](./docs/services/FlashcardService.md) - Manages flashcards with spaced repetition
-- [GoalService](./docs/services/GoalService.md) - Tracks learning objectives and milestones
-- [ProgressTracker](./docs/services/ProgressTracker.md) - Monitors and analyzes user progress
-- [TimeManager](./docs/services/TimeManager.md) - Handles study scheduling and time allocation
+- [FlashcardService](./docs/services/FlashcardService.md) 
+- [GoalService](./docs/services/GoalService.md)
+- [ProgressTracker](./docs/services/ProgressTracker.md)
+- [TimeManager](./docs/services/TimeManager.md)
+- [Format](./docs/services/Format.md)
 
 #### Utility Services
 - [SRSAlgorithm](./docs/services/SRSAlgorithm.md) - Spaced Repetition System implementation
