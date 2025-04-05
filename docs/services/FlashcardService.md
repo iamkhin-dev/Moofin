@@ -20,8 +20,6 @@
    - [Flashcard](#flashcard)
    - [FlashcardStats](#flashcardstats)
    - [OperationResult](#operationresult)
-4. [Thread Safety](#thread-safety)
-5. [Usage Example](#usage-example)
 
 ## Overview
 
@@ -175,35 +173,3 @@ Represents the result of an operation, including:
 - `Success`: A boolean indicating if the operation was successful.
 - `Message`: A message providing additional details about the result.
 - `Data`: Any additional data (such as the flashcard ID) related to the operation.
-
-## Thread Safety
-
-The `FlashcardService` class uses a `ReaderWriterLockSlim` to ensure thread safety when reading and writing flashcard data. The service allows multiple threads to read concurrently but ensures exclusive access during write operations (e.g., adding or modifying flashcards).
-
-## Usage Example
-
-```csharp
-var service = new FlashcardService();
-
-// Adding a flashcard
-var result = service.AddFlashcard("What is the capital of France?", "Paris");
-if (result.Success)
-{
-    Console.WriteLine("Flashcard added successfully!");
-}
-else
-{
-    Console.WriteLine($"Error: {result.Message}");
-}
-
-// Getting the next due card
-var nextCard = service.GetNextDueCard();
-if (nextCard != null)
-{
-    Console.WriteLine($"Next due card: {nextCard.Question}");
-}
-
-// Updating card progress
-var updateResult = service.UpdateCardProgress(nextCard.Id, true);
-Console.WriteLine(updateResult.Success ? "Progress updated!" : $"Error: {updateResult.Message}");
-```
