@@ -1,6 +1,6 @@
 # Moofin v0.0.1 Alpha (🛠️ *Work in Progress...)*
 <p align="center">
-    <a href="https://moofin.free.nf/"><img height="150px" src="icon.svg" align="center" />
+    <img height="150px" src="icon.svg" align="center" />
     <h2 align="center">Moofin</h2>
     <p align="center"><strong>Moofin</strong> is a .NET library designed to provide core functionalities for building study-focused applications.</p>
     <p align="center">
@@ -44,12 +44,16 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **Linux**  | 🛠️ (Work in Progress...)         |
 
 ## 📑 Documentation
-The entire documentation will be published on the website, please read the documentation carefully to have a pleasant experience.
-To access the documentation site, go to this link: **[Moofin](https://moofin.free.nf/)**
+### Index
+#### Services
+- [FlashcardService](./docs/services/FlashcardService.md) - Manages flashcards with spaced repetition
+- [GoalService](./docs/services/GoalService.md) - Tracks learning objectives and milestones
+- [ProgressTracker](./docs/services/ProgressTracker.md) - Monitors and analyzes user progress
+- [TimeManager](./docs/services/TimeManager.md) - Handles study scheduling and time allocation
 
-Here are 2 examples: 
+#### Utility Services
+- [SRSAlgorithm](./docs/services/SRSAlgorithm.md) - Spaced Repetition System implementation
 
-🛠️ **Work in Progress...**
 
 ## 📜 ChangeLog
 
