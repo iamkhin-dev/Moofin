@@ -19,7 +19,8 @@
 
 >[!WARNING]
 > Moofin is under development, the release date is undefined but above all the release is sure a potrotype.
-> the name Moofin was taken from: [Moofin](https://www.twitch.tv/moofin__)
+>
+> The name Moofin was taken from: [Moofin](https://www.twitch.tv/moofin__), follow it <3
 
 ## ⚙️ Installation Guide
 
