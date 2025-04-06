@@ -33,7 +33,7 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
 3. **Install via NuGet or Terminal**:
       ##### **NuGet:**
-   Go to Tools → NuGet Package Manager → Browse → Search for Moofin
+   Go to Project → NuGet Package Manager → Browse → Search for Moofin
 
       ##### **Terminal:**
    
