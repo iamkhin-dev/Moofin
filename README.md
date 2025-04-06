@@ -18,7 +18,7 @@
 - 📜 [ChangeLog](#-changelog)      
 
 >[!WARNING]
-> The name Moofin was taken from: [Moofin](https://www.twitch.tv/moofin__), follow it <3
+> The name Moofin was taken from: [Moofin](https://www.twitch.tv/moofin__), follow it ❤️
 
 ## ⚙️ Installation Guide
 
