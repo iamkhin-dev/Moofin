@@ -18,8 +18,6 @@
 - 📜 [ChangeLog](#-changelog)      
 
 >[!WARNING]
-> Moofin is under development, the release date is undefined but above all the release is sure a potrotype.
->
 > The name Moofin was taken from: [Moofin](https://www.twitch.tv/moofin__), follow it <3
 
 ## ⚙️ Installation Guide
@@ -35,15 +33,15 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
 3. **Install via NuGet or Terminal**:
       ##### **NuGet:**
-   🛠️ *(Work in Progress...)*
+   Go to Tools → NuGet Package Manager → Browse → Search for Moofin
 
       ##### **Terminal:**
    
-   | **OS**     | **Command**                       |
-   |------------|-----------------------------------|
-   | **Windows**| 🛠️ (Work in Progress...)         |
-   | **macOS**  | 🛠️ (Work in Progress...)         |
-   | **Linux**  | 🛠️ (Work in Progress...)         |
+   | **OS**     | **Command**                               |
+   |------------|-------------------------------------------|
+   | **Windows**| dotnet add package Moofin --version 0.1.0 |
+   | **macOS**  | dotnet add package Moofin --version 0.1.0 |
+   | **Linux**  | dotnet add package Moofin --version 0.1.0 |
 
 ## 📑 Documentation
 ### Index
