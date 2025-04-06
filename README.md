@@ -1,4 +1,4 @@
-# Moofin
+# Moofin **v0.1.0 BETA**
 <p align="center">
     <img height="150px" src="icon.svg" align="center" />
     <h2 align="center">Moofin</h2>
@@ -37,11 +37,11 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
       ##### **Terminal:**
    
-   | **OS**     | **Command**                               |
-   |------------|-------------------------------------------|
-   | **Windows**| dotnet add package Moofin --version 0.1.0 |
-   | **macOS**  | dotnet add package Moofin --version 0.1.0 |
-   | **Linux**  | dotnet add package Moofin --version 0.1.0 |
+   | **OS**     | **Command**               |
+   |------------|---------------------------|
+   | **Windows**| dotnet add package Moofin |
+   | **macOS**  | dotnet add package Moofin |
+   | **Linux**  | dotnet add package Moofin |
 
 ## 📑 Documentation
 ### Index
