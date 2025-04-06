@@ -45,6 +45,16 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
 ## 📑 Documentation
 ### Index
+
+#### Exceptions
+- [MoofinException](./docs/exceptions/MoofinException.md)
+- [SyncFailedException](./docs/exceptions/SyncFailedException.md)
+  
+#### Intefaces
+- [INotification](./docs/intefaces/INotification.md)
+- [IStorage](./docs/intefaces/IStorage.md)
+- [ISyncProvider](./docs/intefaces/ISyncProvider.md)
+  
 #### Services
 - [FlashcardService](./docs/services/FlashcardService.md) 
 - [GoalService](./docs/services/GoalService.md)
@@ -52,9 +62,8 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 - [TimeManager](./docs/services/TimeManager.md)
 - [Format](./docs/services/Format.md)
 
-#### Utility Services
-- [SRSAlgorithm](./docs/services/SRSAlgorithm.md) - Spaced Repetition System implementation
-
+#### Utilis
+- [SpacedRepetition](./docs/utils/SpacedRepetition.md)
 
 ## 📜 ChangeLog
 
