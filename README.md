@@ -1,4 +1,4 @@
-# Moofin v0.0.1 Alpha (🛠️ *Work in Progress...)*
+# Moofin
 <p align="center">
     <img height="150px" src="icon.svg" align="center" />
     <h2 align="center">Moofin</h2>
@@ -60,4 +60,8 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 
 ## 📜 ChangeLog
 
-🛠️ **Work in Progress...**
+v0.1.0 BETA
+<div style="background-color:#d4edda; color:#155724; padding:1em; border:1px solid #c3e6cb; border-radius:6px; font-family:sans-serif;">
++ Added all library on GitHub<br>
++ Added all library to NuGet<br>
+</div>
