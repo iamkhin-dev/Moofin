@@ -78,6 +78,9 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
 ## 📜 ChangeLog
 
 v0.1.0 BETA
+
 🟢​ Added MoofinCLI
+
 🟢​ Added all library on GitHub
+
 🟢​ Added all library to NuGet
