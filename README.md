@@ -44,8 +44,9 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **Linux**  | dotnet add package Moofin |
    
       ##### **MoofinCLI:**
-       window x64: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x64.zip)
-       window x84: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x84.zip)
+   window x64: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x64.zip)
+   
+   window x84: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x84.zip)
 
 ## 📑 Documentation
 ### Index
