@@ -31,7 +31,7 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    - Download the appropriate installer for your operating system (Windows, macOS, or Linux).
    - Follow the on-screen instructions to complete the installation.
 
-3. **Install via NuGet or Terminal**:
+3. **Install via NuGet or Terminal or MoofinCLI**:
       ##### **NuGet:**
    Go to Project → NuGet Package Manager → Browse → Search: Moofin
 
@@ -42,6 +42,10 @@ To install **Moofin** in your .NET project, follow the steps below depending on 
    | **Windows**| dotnet add package Moofin |
    | **macOS**  | dotnet add package Moofin |
    | **Linux**  | dotnet add package Moofin |
+   
+      ##### **MoofinCLI:**
+       window x64: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x64.zip)
+       window x84: [Download](https://github.com/iamkhin-dev/Moofin/blob/main/MoofinCLI/bin/Release/net9.0/win-x84.zip)
 
 ## 📑 Documentation
 ### Index
