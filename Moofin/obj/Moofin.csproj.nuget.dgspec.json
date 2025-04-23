@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\source\\repos\\Moofin\\Moofin\\Moofin.csproj": {}
+    "C:\\Users\\franc\\OneDrive\\Documenti\\GitHub\\Moofin\\Moofin\\Moofin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\source\\repos\\Moofin\\Moofin\\Moofin.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Documenti\\GitHub\\Moofin\\Moofin\\Moofin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Moofin\\Moofin\\Moofin.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documenti\\GitHub\\Moofin\\Moofin\\Moofin.csproj",
         "projectName": "Moofin",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Moofin\\Moofin\\Moofin.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Documenti\\GitHub\\Moofin\\Moofin\\Moofin.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Moofin\\Moofin\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Documenti\\GitHub\\Moofin\\Moofin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
