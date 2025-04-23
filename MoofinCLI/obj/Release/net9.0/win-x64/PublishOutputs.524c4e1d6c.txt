@@ -1,0 +1,2 @@
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Release\net9.0\win-x64\publish\MoofinCLI.pdb
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Release\net9.0\win-x64\publish\MoofinCLI.exe

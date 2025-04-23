@@ -1,0 +1,15 @@
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Debug\net9.0\MoofinCLI.exe
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Debug\net9.0\MoofinCLI.deps.json
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Debug\net9.0\MoofinCLI.runtimeconfig.json
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Debug\net9.0\MoofinCLI.dll
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\bin\Debug\net9.0\MoofinCLI.pdb
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.AssemblyInfo.cs
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.sourcelink.json
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.dll
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\refint\MoofinCLI.dll
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.pdb
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\MoofinCLI.genruntimeconfig.cache
+C:\Users\franc\source\repos\MoofinCLI\MoofinCLI\obj\Debug\net9.0\ref\MoofinCLI.dll
